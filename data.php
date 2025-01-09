@@ -9,5 +9,7 @@ else{
     echo "Db Conncect SuccessFully!!";
 }
 
+$mySql = "INSERT INTO user_list (name,mobile,email) VALUES ('Adnan','666','adnan@yaho.com') ";
+mySqli_query ($con,$mySql);
 
 ?>
