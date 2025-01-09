@@ -1,15 +1,20 @@
 <?php
+$con = mysqli_connect("localhost", "root", "", "your_database_name");
 
-$con = mySqli_connect("localhost","if0_37679408","vb7iyRsMjHV89","if0_37679408_shakil");
-
-if(mySqli_connect.errono()){
-    echo "Couldnot Connect DataBase".mySqli_connect_error();
-}
-else{
-    echo "Db Conncect SuccessFully!!";
+if (mysqli_connect_errno()) {
+    echo "Could not connect to Database: " . mysqli_connect_error();
+} else {
+    echo "DB Connected Successfully!";
 }
 
-$mySql = "INSERT INTO user_list (name,mobile,email) VALUES ('Adnan','666','adnan@yaho.com') ";
-mySqli_query ($con,$mySql);
+$mySql = "INSERT INTO user_list (name, mobile, email) VALUES ('Adnan', '666', 'adnan@yaho.com')";
+
+if (mysqli_query($con, $mySql)) {
+    echo "Data Inserted Successfully!";
+} else {
+    echo "Error: " . mysqli_error($con);
+}
+
+mysqli_close($con);
 
 ?>
