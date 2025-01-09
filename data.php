@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("localhost", "root", "", "your_database_name");
+$con = mysqli_connect("localhost", "root", "", "user_data");
 
 if (mysqli_connect_errno()) {
     echo "Could not connect to Database: " . mysqli_connect_error();
