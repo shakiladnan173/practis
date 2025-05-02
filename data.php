@@ -7,7 +7,12 @@ if (mysqli_connect_errno()) {
     echo "DB Connected Successfully!";
 }
 
-$mySql = "INSERT INTO user_list (name, mobile, email) VALUES ('Adnan', '666', 'adnan@yaho.com')";
+$name = $_GET['n'];
+$mobile = $_GET['m'];
+$email = $_GET['e'];
+
+
+$mySql = "INSERT INTO user_list (name, mobile, email) VALUES ('$name', '$mobile', '$email')";
 
 if (mysqli_query($con, $mySql)) {
     echo "Data Inserted Successfully!";
