@@ -1,0 +1,263 @@
+{
+  "dhakaThanaList": [
+    {
+      "id": "1",
+      "name": "আদাবর থানা",
+      "mobile": "01713373183",
+      "email": "ocadabor@dmp.gov.bd",
+      "tel": "02-9133265"
+    },
+    {
+      "id": "2",
+      "name": "ধানমন্ডি থানা",
+      "mobile": "01713373126",
+      "email": "ocdhanmondi@dmp.gov.bd",
+      "tel": "02-9132260"
+    },
+    {
+      "id": "3",
+      "name": "গুলশান থানা",
+      "mobile": "01713373171",
+      "email": "ocgulshan@dmp.gov.bd",
+      "tel": "02-9884444"
+    },
+    {
+      "id": "4",
+      "name": "মতিঝিল থানা",
+      "mobile": "01713373152",
+      "email": "ocmotijheel@dmp.gov.bd",
+      "tel": "02-9556016"
+    },
+    {
+      "id": "5",
+      "name": "রামপুরা থানা",
+      "mobile": "01713373153",
+      "email": "ocrampura@dmp.gov.bd",
+      "tel": "02-7211100"
+    },
+    {
+      "id": "6",
+      "name": "মোহাম্মদপুর থানা",
+      "mobile": "01713373182",
+      "email": "ocmohammadpur@dmp.gov.bd",
+      "tel": "02-9119960"
+    },
+    {
+      "id": "7",
+      "name": "কাফরুল থানা",
+      "mobile": "01713373191",
+      "email": "ockafrul@dmp.gov.bd",
+      "tel": "02-9001061"
+    },
+    {
+      "id": "8",
+      "name": "খিলগাঁও থানা",
+      "mobile": "01713373154",
+      "email": "ockhilgaon@dmp.gov.bd",
+      "tel": "02-7219090"
+    },
+    {
+      "id": "9",
+      "name": "লালবাগ থানা",
+      "mobile": "01713373134",
+      "email": "oclalbagh@dmp.gov.bd",
+      "tel": "02-9660105"
+    },
+    {
+      "id": "10",
+      "name": "পল্টন থানা",
+      "mobile": "01713373155",
+      "email": "ocpaltan@dmp.gov.bd",
+      "tel": "02-9360802"
+    },
+    {
+      "id": "11",
+      "name": "বাড্ডা থানা",
+      "mobile": "01713373173",
+      "email": "ocbadda@dmp.gov.bd",
+      "tel": "02-9882625"
+    },
+    {
+      "id": "12",
+      "name": "বনানী থানা",
+      "mobile": "01713373174",
+      "email": "ocbanani@dmp.gov.bd",
+      "tel": "02-9894032"
+    },
+    {
+      "id": "13",
+      "name": "বংশাল থানা",
+      "mobile": "01713373135",
+      "email": "ocbangshal@dmp.gov.bd",
+      "tel": "02-7316001"
+    },
+    {
+      "id": "14",
+      "name": "বিমানবন্দর থানা",
+      "mobile": "01713373175",
+      "email": "ocairport@dmp.gov.bd",
+      "tel": "02-8901324"
+    },
+    {
+      "id": "15",
+      "name": "চকবাজার থানা",
+      "mobile": "01713373136",
+      "email": "occhawkbazar@dmp.gov.bd",
+      "tel": "02-7316002"
+    },
+    {
+      "id": "16",
+      "name": "দারুস সালাম থানা",
+      "mobile": "01713373184",
+      "email": "ocdarussalam@dmp.gov.bd",
+      "tel": "02-9001062"
+    },
+    {
+      "id": "17",
+      "name": "দক্ষিণখান থানা",
+      "mobile": "01713373176",
+      "email": "ocsouthkhan@dmp.gov.bd",
+      "tel": "02-8911787"
+    },
+    {
+      "id": "18",
+      "name": "গেন্ডারিয়া থানা",
+      "mobile": "01713373137",
+      "email": "ocgandaria@dmp.gov.bd",
+      "tel": "02-7453294"
+    },
+    {
+      "id": "19",
+      "name": "হাজারীবাগ থানা",
+      "mobile": "01713373136",
+      "email": "ochazaribag@dmp.gov.bd",
+      "tel": "02-9669900"
+    },
+    {
+      "id": "20",
+      "name": "যাত্রাবাড়ী থানা",
+      "mobile": "01713373146",
+      "email": "ocjatrabari@dmp.gov.bd",
+      "tel": "02-7546244"
+    },
+    {
+      "id": "21",
+      "name": "কালাবাগান থানা",
+      "mobile": "01713373128",
+      "email": "ockalabagan@dmp.gov.bd",
+      "tel": "02-9665254"
+    },
+    {
+      "id": "22",
+      "name": "কামরাঙ্গীরচর থানা",
+      "mobile": "01713373137",
+      "email": "ockamrangirchar@dmp.gov.bd",
+      "tel": "02-7320323"
+    },
+    {
+      "id": "23",
+      "name": "খিলক্ষেত থানা",
+      "mobile": "01713373174",
+      "email": "ockhilkhet@dmp.gov.bd",
+      "tel": "02-8911786"
+    },
+    {
+      "id": "24",
+      "name": "কোতোয়ালি থানা",
+      "mobile": "01713373135",
+      "email": "ockotwali@dmp.gov.bd",
+      "tel": "02-7316003"
+    },
+    {
+      "id": "25",
+      "name": "মিরপুর থানা",
+      "mobile": "01713373185",
+      "email": "ocmirpur@dmp.gov.bd",
+      "tel": "02-9001063"
+    },
+    {
+      "id": "26",
+      "name": "মুগদা থানা",
+      "mobile": "01713373156",
+      "email": "ocmugda@dmp.gov.bd",
+      "tel": "02-7211101"
+    },
+    {
+      "id": "27",
+      "name": "নিউ মার্কেট থানা",
+      "mobile": "01713373128",
+      "email": "ocnewmarket@dmp.gov.bd",
+      "tel": "02-9665255"
+    },
+    {
+      "id": "28",
+      "name": "পল্লবী থানা",
+      "mobile": "01713373186",
+      "email": "ocpallabi@dmp.gov.bd",
+      "tel": "02-9001064"
+    },
+    {
+      "id": "29",
+      "name": "রূপনগর থানা",
+      "mobile": "01713373187",
+      "email": "ocrupnagar@dmp.gov.bd",
+      "tel": "02-9001065"
+    },
+    {
+      "id": "30",
+      "name": "সাবুজবাগ থানা",
+      "mobile": "01713373157",
+      "email": "ocsabujbagh@dmp.gov.bd",
+      "tel": "02-7211102"
+    },
+    {
+      "id": "31",
+      "name": "শাহআলী থানা",
+      "mobile": "01713373188",
+      "email": "ocshahali@dmp.gov.bd",
+      "tel": "02-9001066"
+    },
+    {
+      "id": "32",
+      "name": "শাহবাগ থানা",
+      "mobile": "01713373127",
+      "email": "ocshahbagh@dmp.gov.bd",
+      "tel": "02-9665256"
+    },
+    {
+      "id": "33",
+      "name": "শেরেবাংলা নগর থানা",
+      "mobile": "01713373189",
+      "email": "ocsherbanglanagar@dmp.gov.bd",
+      "tel": "02-9001067"
+    },
+    {
+      "id": "34",
+      "name": "শ্যামপুর থানা",
+      "mobile": "01713373158",
+      "email": "ocshyampur@dmp.gov.bd",
+      "tel": "02-7546245"
+    },
+    {
+      "id": "35",
+      "name": "তেজগাঁও থানা",
+      "mobile": "01713373190",
+      "email": "octejgaon@dmp.gov.bd",
+      "tel": "02-9119961"
+    },
+    {
+      "id": "36",
+      "name": "তেজগাঁও শিল্পাঞ্চল থানা",
+      "mobile": "01713373191",
+      "email": "octejgaonindustrial@dmp.gov.bd",
+      "tel": "02-9119962"
+    },
+    {
+      "id": "37",
+      "name": "উত্তরখান থানা",
+      "mobile": "01713373192",
+      "email": "ocuttarkhan@dmp.gov.bd",
+      "tel": "02-8911788"
+    }
+ ]
+}
