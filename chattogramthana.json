@@ -1,0 +1,74 @@
+{
+  "chattogram": [
+    {
+      "id": "1",
+      "name": "চকবাজার থানা",
+      "mobile": "01733331001",
+      "email": "chawkbazar@police.gov.bd",
+      "tel": "031-61001"
+    },
+    {
+      "id": "2",
+      "name": "কোতোয়ালী থানা",
+      "mobile": "01733331002",
+      "email": "kotwali@police.gov.bd",
+      "tel": "031-61002"
+    },
+    {
+      "id": "3",
+      "name": "বাকলিয়া থানা",
+      "mobile": "01733331003",
+      "email": "bakalia@police.gov.bd",
+      "tel": "031-61003"
+    },
+    {
+      "id": "4",
+      "name": "পাঁচলাইশ থানা",
+      "mobile": "01733331004",
+      "email": "panchlaish@police.gov.bd",
+      "tel": "031-61004"
+    },
+    {
+      "id": "5",
+      "name": "হালিশহর থানা",
+      "mobile": "01733331005",
+      "email": "halishahar@police.gov.bd",
+      "tel": "031-61005"
+    },
+    {
+      "id": "6",
+      "name": "পাহাড়তলী থানা",
+      "mobile": "01733331006",
+      "email": "pahartali@police.gov.bd",
+      "tel": "031-61006"
+    },
+    {
+      "id": "7",
+      "name": "ডবলমুরিং থানা",
+      "mobile": "01733331007",
+      "email": "doublemooring@police.gov.bd",
+      "tel": "031-61007"
+    },
+    {
+      "id": "8",
+      "name": "পতেঙ্গা থানা",
+      "mobile": "01733331008",
+      "email": "patenga@police.gov.bd",
+      "tel": "031-61008"
+    },
+    {
+      "id": "9",
+      "name": "সীতাকুণ্ড থানা",
+      "mobile": "01733331009",
+      "email": "sitakunda@police.gov.bd",
+      "tel": "031-61009"
+    },
+    {
+      "id": "10",
+      "name": "আনোয়ারা থানা",
+      "mobile": "01733331010",
+      "email": "anwara@police.gov.bd",
+      "tel": "031-61010"
+    }
+  ]
+}
