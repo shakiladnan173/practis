@@ -1,0 +1,60 @@
+{
+  "coxsbazar": [
+    {
+      "id": "1",
+      "name": "কক্সবাজার সদর থানা",
+      "mobile": "01733334001",
+      "tel": "0341-62001",
+      "email": "sadarcox@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "চকরিয়া থানা",
+      "mobile": "01733334002",
+      "tel": "0342-62002",
+      "email": "chakaria@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "টেকনাফ থানা",
+      "mobile": "01733334003",
+      "tel": "0343-62003",
+      "email": "teknaf@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "উখিয়া থানা",
+      "mobile": "01733334004",
+      "tel": "0344-62004",
+      "email": "ukhia@police.gov.bd"
+    },
+    {
+      "id": "5",
+      "name": "রামু থানা",
+      "mobile": "01733334005",
+      "tel": "0345-62005",
+      "email": "ramu@police.gov.bd"
+    },
+    {
+      "id": "6",
+      "name": "মহেশখালী থানা",
+      "mobile": "01733334006",
+      "tel": "0346-62006",
+      "email": "moheshkhali@police.gov.bd"
+    },
+    {
+      "id": "7",
+      "name": "কুতুবদিয়া থানা",
+      "mobile": "01733334007",
+      "tel": "0347-62007",
+      "email": "kutubdia@police.gov.bd"
+    },
+    {
+      "id": "8",
+      "name": "পেকুয়া থানা",
+      "mobile": "01733334008",
+      "tel": "0348-62008",
+      "email": "pekua@police.gov.bd"
+    }
+  ]
+}
