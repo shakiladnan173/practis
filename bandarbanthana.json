@@ -1,0 +1,53 @@
+{
+  "bandarban": [
+    {
+      "id": "1",
+      "name": "বান্দরবান সদর থানা",
+      "mobile": "01722220001",
+      "email": "sadarbandarban@police.gov.bd",
+      "tel": "0361-62001"
+    },
+    {
+      "id": "2",
+      "name": "লামা থানা",
+      "mobile": "01722220002",
+      "email": "lama@police.gov.bd",
+      "tel": "0361-62002"
+    },
+    {
+      "id": "3",
+      "name": "রুমা থানা",
+      "mobile": "01722220003",
+      "email": "ruma@police.gov.bd",
+      "tel": "0361-62003"
+    },
+    {
+      "id": "4",
+      "name": "রোয়াংছড়ি থানা",
+      "mobile": "01722220004",
+      "email": "rowangchhari@police.gov.bd",
+      "tel": "0361-62004"
+    },
+    {
+      "id": "5",
+      "name": "থানচি থানা",
+      "mobile": "01722220005",
+      "email": "thanchi@police.gov.bd",
+      "tel": "0361-62005"
+    },
+    {
+      "id": "6",
+      "name": "আলীকদম থানা",
+      "mobile": "01722220006",
+      "email": "alikadam@police.gov.bd",
+      "tel": "0361-62006"
+    },
+    {
+      "id": "7",
+      "name": "নাইক্ষ্যংছড়ি থানা",
+      "mobile": "01722220007",
+      "email": "naikhongchhari@police.gov.bd",
+      "tel": "0361-62007"
+    }
+  ]
+}
