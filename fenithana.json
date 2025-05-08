@@ -1,0 +1,46 @@
+{
+  "feni": [
+    {
+      "id": "1",
+      "name": "ফেনী মডেল থানা",
+      "mobile": "01713374001",
+      "tel": "0331-74001",
+      "email": "fenimodel@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "ছাগলনাইয়া থানা",
+      "mobile": "01713374002",
+      "tel": "0332-74002",
+      "email": "chhagalnaiya@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "দাগনভূঞা থানা",
+      "mobile": "01713374003",
+      "tel": "0333-74003",
+      "email": "daganbhuiyan@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "ফুলগাজী থানা",
+      "mobile": "01713374004",
+      "tel": "0334-74004",
+      "email": "phulgazi@police.gov.bd"
+    },
+    {
+      "id": "5",
+      "name": "পরশুরাম থানা",
+      "mobile": "01713374005",
+      "tel": "0335-74005",
+      "email": "parshuram@police.gov.bd"
+    },
+    {
+      "id": "6",
+      "name": "সোনাগাজী থানা",
+      "mobile": "01713374006",
+      "tel": "0336-74006",
+      "email": "sonagazi@police.gov.bd"
+    }
+  ]
+}
