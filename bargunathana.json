@@ -2,42 +2,42 @@
   "bargunathana":[
   {
       "id": "1",
-      "name": "Amtali Thana",
+      "name": "আমতালি থানা",
       "mobile": "01712345678",
       "tel": "04328-1234",
       "email": "amtali@police.gov.bd"
   },
   {
       "id": "2",
-      "name": "Bamna Thana",
+      "name": "বামনা থানা",
       "mobile": "01712345679",
       "tel": "04329-2345",
       "email": "bamna@police.gov.bd"
   },
   {
       "id": "3",
-      "name": "Barguna Sadar Thana",
+      "name": "বড়গুনা সদর ্রথানা",
       "mobile": "01712345680",
       "tel": "04326-3456",
       "email": "sadarbarguna@police.gov.bd"
   },
   {
       "id": "4",
-      "name": "Betagi Thana",
+      "name": "বেটাগি থানা",
       "mobile": "01712345681",
       "tel": "04327-4567",
       "email": "betagi@police.gov.bd"
   },
   {
       "id": "5",
-      "name": "Patharghata Thana",
+      "name": "পাথারঘাট থানা",
       "mobile": "01712345682",
       "tel": "04325-5678",
       "email": "patharghata@police.gov.bd"
   },
   {
       "id": "6",
-      "name": "Taltali Thana",
+      "name": "তালতালি থানা",
       "mobile": "01712345683",
       "tel": "04324-6789",
       "email": "taltali@police.gov.bd"
