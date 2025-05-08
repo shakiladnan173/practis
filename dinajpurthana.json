@@ -1,0 +1,74 @@
+{
+  "dinajpur": [
+    {
+      "id": "1",
+      "name": "দিনাজপুর সদর থানা",
+      "mobile": "01733335001",
+      "tel": "0531-62001",
+      "email": "sadar.dinajpur@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "বিরল থানা",
+      "mobile": "01733335002",
+      "tel": "0532-62002",
+      "email": "biral@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "বোচাগঞ্জ থানা",
+      "mobile": "01733335003",
+      "tel": "0533-62003",
+      "email": "bochaganj@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "বীরগঞ্জ থানা",
+      "mobile": "01733335004",
+      "tel": "0534-62004",
+      "email": "birganj@police.gov.bd"
+    },
+    {
+      "id": "5",
+      "name": "পার্বতীপুর থানা",
+      "mobile": "01733335005",
+      "tel": "0535-62005",
+      "email": "parbatipur@police.gov.bd"
+    },
+    {
+      "id": "6",
+      "name": "ফুলবাড়ী থানা",
+      "mobile": "01733335006",
+      "tel": "0536-62006",
+      "email": "phulbari@police.gov.bd"
+    },
+    {
+      "id": "7",
+      "name": "ঘোড়াঘাট থানা",
+      "mobile": "01733335007",
+      "tel": "0537-62007",
+      "email": "ghoraghat@police.gov.bd"
+    },
+    {
+      "id": "8",
+      "name": "হাকিমপুর থানা",
+      "mobile": "01733335008",
+      "tel": "0538-62008",
+      "email": "hakimpur@police.gov.bd"
+    },
+    {
+      "id": "9",
+      "name": "চিরিরবন্দর থানা",
+      "mobile": "01733335009",
+      "tel": "0539-62009",
+      "email": "chirirbandar@police.gov.bd"
+    },
+    {
+      "id": "10",
+      "name": "নবাবগঞ্জ থানা",
+      "mobile": "01733335010",
+      "tel": "0531-62010",
+      "email": "nawabganj.dinajpur@police.gov.bd"
+    }
+  ]
+}
