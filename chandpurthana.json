@@ -1,0 +1,46 @@
+{
+  "chandpur": [
+    {
+      "id": "1",
+      "name": "চাঁদপুর সদর থানা",
+      "mobile": "01712345678",
+      "email": "sadarchandpur@police.gov.bd",
+      "tel": "0321-1234"
+    },
+    {
+      "id": "2",
+      "name": "হাইমচর থানা",
+      "mobile": "01712345679",
+      "email": "haimchar@police.gov.bd",
+      "tel": "0321-2345"
+    },
+    {
+      "id": "3",
+      "name": "চরভদ্রাসন থানা",
+      "mobile": "01712345680",
+      "email": "charbhadrason@police.gov.bd",
+      "tel": "0321-3456"
+    },
+    {
+      "id": "4",
+      "name": "ফরিদগঞ্জ থানা",
+      "mobile": "01712345681",
+      "email": "faridganj@police.gov.bd",
+      "tel": "0321-4567"
+    },
+    {
+      "id": "5",
+      "name": "কচুয়া থানা",
+      "mobile": "01712345682",
+      "email": "kachua@police.gov.bd",
+      "tel": "0321-5678"
+    },
+    {
+      "id": "6",
+      "name": "মতলব থানা",
+      "mobile": "01712345683",
+      "email": "matlab@police.gov.bd",
+      "tel": "0321-6789"
+    }
+  ]
+}
