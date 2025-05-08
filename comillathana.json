@@ -1,0 +1,95 @@
+{
+  "comilla": [
+    {
+      "id": "1",
+      "name": "কোতোয়ালি মডেল থানা",
+      "mobile": "01733333001",
+      "tel": "081-72001",
+      "email": "kotwalicomilla@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "লাকসাম থানা",
+      "mobile": "01733333002",
+      "tel": "081-72002",
+      "email": "laksam@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "দেবিদ্বার থানা",
+      "mobile": "01733333003",
+      "tel": "081-72003",
+      "email": "debidwar@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "মনোহরগঞ্জ থানা",
+      "mobile": "01733333004",
+      "tel": "081-72004",
+      "email": "monohargonj@police.gov.bd"
+    },
+    {
+      "id": "5",
+      "name": "বুড়িচং থানা",
+      "mobile": "01733333005",
+      "tel": "081-72005",
+      "email": "burichong@police.gov.bd"
+    },
+    {
+      "id": "6",
+      "name": "মুরাদনগর থানা",
+      "mobile": "01733333006",
+      "tel": "081-72006",
+      "email": "muradnagar@police.gov.bd"
+    },
+    {
+      "id": "7",
+      "name": "চৌদ্দগ্রাম থানা",
+      "mobile": "01733333007",
+      "tel": "081-72007",
+      "email": "chauddagram@police.gov.bd"
+    },
+    {
+      "id": "8",
+      "name": "দাউদকান্দি থানা",
+      "mobile": "01733333008",
+      "tel": "081-72008",
+      "email": "daudkandi@police.gov.bd"
+    },
+    {
+      "id": "9",
+      "name": "তিতাস থানা",
+      "mobile": "01733333009",
+      "tel": "081-72009",
+      "email": "titas@police.gov.bd"
+    },
+    {
+      "id": "10",
+      "name": "হোমনা থানা",
+      "mobile": "01733333010",
+      "tel": "081-72010",
+      "email": "homna@police.gov.bd"
+    },
+    {
+      "id": "11",
+      "name": "মেঘনা থানা",
+      "mobile": "01733333011",
+      "tel": "081-72011",
+      "email": "meghna@police.gov.bd"
+    },
+    {
+      "id": "12",
+      "name": "নাঙ্গলকোট থানা",
+      "mobile": "01733333012",
+      "tel": "081-72012",
+      "email": "nangalkot@police.gov.bd"
+    },
+    {
+      "id": "13",
+      "name": "ব্রাহ্মণপাড়া থানা",
+      "mobile": "01733333013",
+      "tel": "081-72013",
+      "email": "brahmanpara@police.gov.bd"
+    }
+  ]
+}
