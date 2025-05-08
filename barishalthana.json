@@ -1,0 +1,53 @@
+{
+  "barishalthana": [
+    {
+      "id": "1",
+      "name": "কোতোয়ালি মডেল থানা",
+      "mobile": "01712345684",
+      "tel": "0431-123456",
+      "email": "kotwali@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "এয়ারপোর্ট থানা",
+      "mobile": "01712345685",
+      "tel": "0431-234567",
+      "email": "airport@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "কাউনিয়া থানা",
+      "mobile": "01712345686",
+      "tel": "0431-345678",
+      "email": "kawnia@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "বাকেরগঞ্জ থানা",
+      "mobile": "01712345687",
+      "tel": "04321-456789",
+      "email": "bakerganj@police.gov.bd"
+    },
+    {
+      "id": "5",
+      "name": "বানারিপাড়া থানা",
+      "mobile": "01712345688",
+      "tel": "04322-567890",
+      "email": "banaripara@police.gov.bd"
+    },
+    {
+      "id": "6",
+      "name": "মেহেন্দীগঞ্জ থানা",
+      "mobile": "01712345689",
+      "tel": "04323-678901",
+      "email": "mehendiganj@police.gov.bd"
+    },
+    {
+      "id": "7",
+      "name": "মুলাদি থানা",
+      "mobile": "01712345690",
+      "tel": "04324-789012",
+      "email": "muladi@police.gov.bd"
+    }
+  ]
+}
