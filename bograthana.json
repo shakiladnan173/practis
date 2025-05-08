@@ -1,0 +1,46 @@
+{
+  "bogura": [
+    {
+      "id": "1",
+      "name": "বগুড়া সদর থানা",
+      "mobile": "01712345677",
+      "email": "sadarbogura@police.gov.bd",
+      "tel": "051-1234"
+    },
+    {
+      "id": "2",
+      "name": "শাহজাদপুর থানা",
+      "mobile": "01712345678",
+      "email": "shahjadhpur@police.gov.bd",
+      "tel": "051-2345"
+    },
+    {
+      "id": "3",
+      "name": "সদরের কাহালু থানা",
+      "mobile": "01712345679",
+      "email": "kahlusadar@police.gov.bd",
+      "tel": "051-3456"
+    },
+    {
+      "id": "4",
+      "name": "দুর্গাপুর থানা",
+      "mobile": "01712345680",
+      "email": "durgaur@police.gov.bd",
+      "tel": "051-4567"
+    },
+    {
+      "id": "5",
+      "name": "গাবতলী থানা",
+      "mobile": "01712345681",
+      "email": "gabolti@police.gov.bd",
+      "tel": "051-5678"
+    },
+    {
+      "id": "6",
+      "name": "বগুড়া জেলার মহিপুর থানা",
+      "mobile": "01712345682",
+      "email": "mahipur@police.gov.bd",
+      "tel": "051-6789"
+    }
+  ]
+}
