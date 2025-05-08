@@ -1,0 +1,46 @@
+{
+  "brahmanbaria": [
+    {
+      "id": "1",
+      "name": "ব্রাহ্মণবাড়িয়া সদর থানা",
+      "mobile": "01712345677",
+      "email": "sadarbrahmanbaria@police.gov.bd",
+      "tel": "0321-1234"
+    },
+    {
+      "id": "2",
+      "name": "আখাউড়া থানা",
+      "mobile": "01712345678",
+      "email": "akhaura@police.gov.bd",
+      "tel": "0321-2345"
+    },
+    {
+      "id": "3",
+      "name": "নাসিরনগর থানা",
+      "mobile": "01712345679",
+      "email": "nasirnagar@police.gov.bd",
+      "tel": "0321-3456"
+    },
+    {
+      "id": "4",
+      "name": "বাঞ্ছারামপুর থানা",
+      "mobile": "01712345680",
+      "email": "banchharampur@police.gov.bd",
+      "tel": "0321-4567"
+    },
+    {
+      "id": "5",
+      "name": "ব্রাহ্মণবাড়িয়া জেলার নবীনগর থানা",
+      "mobile": "01712345681",
+      "email": "nabirnagar@police.gov.bd",
+      "tel": "0321-5678"
+    },
+    {
+      "id": "6",
+      "name": "সরাইল থানা",
+      "mobile": "01712345682",
+      "email": "sorail@police.gov.bd",
+      "tel": "0321-6789"
+    }
+  ]
+}
