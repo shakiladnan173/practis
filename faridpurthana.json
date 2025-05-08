@@ -1,0 +1,60 @@
+{
+  "faridpur": [
+    {
+      "id": "1",
+      "name": "ফরিদপুর কোতোয়ালি থানা",
+      "mobile": "01733336001",
+      "tel": "0631-62001",
+      "email": "kotwali.faridpur@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "আলফাডাঙ্গা থানা",
+      "mobile": "01733336002",
+      "tel": "0632-62002",
+      "email": "alfadanga@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "বোয়ালমারী থানা",
+      "mobile": "01733336003",
+      "tel": "0633-62003",
+      "email": "boalmari@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "চরভদ্রাসন থানা",
+      "mobile": "01733336004",
+      "tel": "0634-62004",
+      "email": "charbhadrasan@police.gov.bd"
+    },
+    {
+      "id": "5",
+      "name": "মধুখালী থানা",
+      "mobile": "01733336005",
+      "tel": "0635-62005",
+      "email": "modhukhali@police.gov.bd"
+    },
+    {
+      "id": "6",
+      "name": "নগরকান্দা থানা",
+      "mobile": "01733336006",
+      "tel": "0636-62006",
+      "email": "nagarkanda@police.gov.bd"
+    },
+    {
+      "id": "7",
+      "name": "সালথা থানা",
+      "mobile": "01733336007",
+      "tel": "0637-62007",
+      "email": "saltha@police.gov.bd"
+    },
+    {
+      "id": "8",
+      "name": "সদরপুর থানা",
+      "mobile": "01733336008",
+      "tel": "0638-62008",
+      "email": "sodorpur@police.gov.bd"
+    }
+  ]
+}
