@@ -1,0 +1,32 @@
+{
+  "chuadanga": [
+    {
+      "id": "1",
+      "name": "চুয়াডাঙ্গা সদর থানা",
+      "mobile": "01733332001",
+      "tel": "0761-62001",
+      "email": "sadarchuadanga@police.gov.bd"
+    },
+    {
+      "id": "2",
+      "name": "আলমডাঙ্গা থানা",
+      "mobile": "01733332002",
+      "tel": "07623-62002",
+      "email": "alamdanga@police.gov.bd"
+    },
+    {
+      "id": "3",
+      "name": "দামুড়হুদা থানা",
+      "mobile": "01733332003",
+      "tel": "07624-62003",
+      "email": "damurhuda@police.gov.bd"
+    },
+    {
+      "id": "4",
+      "name": "জীবননগর থানা",
+      "mobile": "01733332004",
+      "tel": "07625-62004",
+      "email": "jibannagar@police.gov.bd"
+    }
+  ]
+}
