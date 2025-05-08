@@ -1,0 +1,60 @@
+{
+  "bagerhat": [
+    {
+      "id": "1",
+      "name": "বাগেরহাট সদর থানা",
+      "mobile": "01711111101",
+      "email": "sadarbagerhat@police.gov.bd",
+      "tel": "0468-1234"
+    },
+    {
+      "id": "2",
+      "name": "মোরেলগঞ্জ থানা",
+      "mobile": "01711111102",
+      "email": "morelganj@police.gov.bd",
+      "tel": "0468-2345"
+    },
+    {
+      "id": "3",
+      "name": "শরণখোলা থানা",
+      "mobile": "01711111103",
+      "email": "sharankhola@police.gov.bd",
+      "tel": "0468-3456"
+    },
+    {
+      "id": "4",
+      "name": "মোংলা থানা",
+      "mobile": "01711111104",
+      "email": "mongla@police.gov.bd",
+      "tel": "0468-4567"
+    },
+    {
+      "id": "5",
+      "name": "চিতলমারী থানা",
+      "mobile": "01711111105",
+      "email": "chitalmari@police.gov.bd",
+      "tel": "0468-5678"
+    },
+    {
+      "id": "6",
+      "name": "কচুয়া থানা",
+      "mobile": "01711111106",
+      "email": "kachuabagerhat@police.gov.bd",
+      "tel": "0468-6789"
+    },
+    {
+      "id": "7",
+      "name": "ফকিরহাট থানা",
+      "mobile": "01711111107",
+      "email": "fakirhat@police.gov.bd",
+      "tel": "0468-7890"
+    },
+    {
+      "id": "8",
+      "name": "রামপাল থানা",
+      "mobile": "01711111108",
+      "email": "rampal@police.gov.bd",
+      "tel": "0468-8901"
+    }
+  ]
+}
