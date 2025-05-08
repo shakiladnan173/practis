@@ -1,0 +1,39 @@
+{
+  "chapainawabganj": [
+    {
+      "id": "1",
+      "name": "চাঁপাইনবাবগঞ্জ সদর থানা",
+      "mobile": "01733330001",
+      "email": "sadarcnawabganj@police.gov.bd",
+      "tel": "0781-62001"
+    },
+    {
+      "id": "2",
+      "name": "শিবগঞ্জ থানা",
+      "mobile": "01733330002",
+      "email": "shibganj@police.gov.bd",
+      "tel": "0781-62002"
+    },
+    {
+      "id": "3",
+      "name": "গোমস্তাপুর থানা",
+      "mobile": "01733330003",
+      "email": "gomostapur@police.gov.bd",
+      "tel": "0781-62003"
+    },
+    {
+      "id": "4",
+      "name": "নাচোল থানা",
+      "mobile": "01733330004",
+      "email": "nachol@police.gov.bd",
+      "tel": "0781-62004"
+    },
+    {
+      "id": "5",
+      "name": "ভোলাহাট থানা",
+      "mobile": "01733330005",
+      "email": "bholahat@police.gov.bd",
+      "tel": "0781-62005"
+    }
+  ]
+}
